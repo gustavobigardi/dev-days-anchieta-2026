@@ -3,6 +3,10 @@ Conteúdos do evento "Dev Days", realizado na UniAnchieta em Jundiaí-SP em 24/1
 
 ---
 
+Palestrantes:
+- Gustavo Bigardi - [LinkedIn](https://www.linkedin.com/in/gbbigardi/) · [GitHub](https://github.com/gustavobigardi)
+- Elton Bordim - [LinkedIn](https://www.linkedin.com/in/elton-bordim/) · [GitHub](https://github.com/ebordim)
+
 Conteúdos em inglês da Microsoft: https://github.com/github/dev-days/tree/main/content
 
 Acesse este conteúdo pelo QRCode
